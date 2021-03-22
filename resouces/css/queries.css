@@ -1,0 +1,20 @@
+
+/* ---  small  Big tablets to computer : from 1024 - 1200px --- */
+@media only screen and (max-width:1200px){
+ 
+} 
+
+
+/* ---  small tables to Big tablets : from 768px to 1023 --- */
+@media only screen and (max-width:1023px){
+   
+}
+
+/* --- small phone  to small tables: from 481 to 767px --- */
+@media only screen and (max-width:767px){
+
+}
+
+/* --- small phone: 0 to 480px --- */
+@media only screen and (max-width:480px){
+   
